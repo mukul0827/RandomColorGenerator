@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+div {
+  width: 50%; /* or any desired width */
+  margin: 0 auto;
+  height: 100px;
+  text-align: center; /* optional for centering text inside */
+  padding: 20px;
+  border: 1px solid black;
+}
